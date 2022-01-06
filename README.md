@@ -1,1 +1,1 @@
-# -COOKIES
+# Avtorizaciy-COOKIES
